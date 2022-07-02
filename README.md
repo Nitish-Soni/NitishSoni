@@ -39,7 +39,7 @@
 </ul>
 <hr>
 <details>
-  <summary><h1>Click Here to Display Stats</h1></summary>
+  <summary><h1>Click Here to Display GitHub Stats</h1></summary>
 <br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
