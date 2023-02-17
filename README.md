@@ -38,10 +38,6 @@
   <summary><h1>Click Here to Display GitHub Stats</h1></summary>
 <br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="100%">
-</p>
-<br>
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishSoni-1726&theme=react&border=61dafb&hide_border=true" width="100%">
 </p>
 <br>
@@ -56,7 +52,7 @@
 <hr>
 <h1>Here is a random MEME to make you smile</h1>
 <h4>P.S Refresh the Page to see new MEME 😉</h4>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='[https://random-memer.herokuapp.com/](https://dynamic-badges.maxalpha.repl.co/meme)' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <hr>
 <h1>If You liked the Readme do give it a Star ❤️</h1>
 <hr>
