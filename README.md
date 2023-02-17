@@ -52,7 +52,7 @@
 <hr>
 <h1>Here is a random MEME to make you smile</h1>
 <h4>P.S Refresh the Page to see new MEME 😉</h4>
-<img src='[https://random-memer.herokuapp.com/](https://dynamic-badges.maxalpha.repl.co/meme)' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/](https://dynamic-badges.maxalpha.repl.co/meme' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <hr>
 <h1>If You liked the Readme do give it a Star ❤️</h1>
 <hr>
