@@ -43,11 +43,11 @@
 </p>
 <br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishSoni-1726&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishSoni-1726&theme=dracula&hide_border=false" width="100%">
 </p>
 <br>
 <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NitishSoni-1726&bg_color=ffffff&color=000000&line=669c35&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="100%">
 </p>
 </details>
 <hr>
