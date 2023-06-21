@@ -38,7 +38,8 @@
   <summary><h1>Click Here to Display GitHub Stats</h1></summary>
 <br>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishSoni-1726&theme=react&border=61dafb&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="100%">
+  
 </p>
 <br>
 <p align="left">
