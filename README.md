@@ -3,8 +3,8 @@
 <hr>
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 <li>👋 Hey, Nitish Soni (EtHicS) this side.</li>
-<li>🎓 Presently puruing B.TECH in Software Engineering.</li>
-<li>🏫 From School of Engineering and Technology, Jain University, Bangalore.</li>
+<li>🎓 B.TECH in Software Engineering.</li>
+<li>🏫 Recently Graduated From School of Engineering and Technology, Jain University, Bangalore.</li>
 <li>👨‍💻 Presently a Front-end Web Developer, Updrading to Full-Stack Developer Soon.</li>
 <li>🤝🏻 Open to Collaborate in any Project which Suits my Skillset.</li>
 <hr>
@@ -15,7 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="react" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="react" width="80" height="40"/>
 </ul>
 <h1>Operating System</h1>
 <ul>
