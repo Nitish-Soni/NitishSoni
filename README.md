@@ -5,7 +5,7 @@
 <li>👋 Hey, Nitish Soni (EtHicS) this side.</li>
 <li>🎓 B.TECH in Software Engineering.</li>
 <li>🏫 Recently Graduated From School of Engineering and Technology, Jain University, Bangalore.</li>
-<li>👨‍💻 Presently a Front-end Web Developer, Updrading to Full-Stack Developer Soon.</li>
+<li>👨‍💻 Front-end Web Developer, React.js Developer</li>
 <li>🤝🏻 Open to Collaborate in any Project which Suits my Skillset.</li>
 <hr>
 <h1>Skills</h1>
@@ -51,10 +51,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="100%">
 </p>
 </details>
-<hr>
-<h1>Here is a random MEME to make you smile</h1>
-<h4>P.S Refresh the Page to see new MEME 😉</h4>
-<img src="https://dynamic-badges.maxalpha.repl.co/meme" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-<hr>
-<h1>If You liked the Readme do give it a Star ❤️</h1>
 <hr>
