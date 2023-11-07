@@ -3,11 +3,14 @@
 <hr>
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 <li>👋 Hey, Nitish Soni (EtHicS) this side.</li>
-<li>🎓 B.TECH in Software Engineering.</li>
-<li>🏫 Recently Graduated From School of Engineering and Technology, Jain University, Bangalore.</li>
-<li>👨‍💻 Front-end Web Developer, React.js Developer</li>
+<li>🎓 Did B.TECH in Software Engineering form Jain University, Bangalore.</li>
+<li>🏫 Currently working as Tech Support Engineer in Citrix</li>
+<li>👨‍💻 I am a Front-end developer with basic back-end understanding, creating seamless user experiences from design to server interactions.</li>
 <li>🤝🏻 Open to Collaborate in any Project which Suits my Skillset.</li>
 <hr>
+<h4>Fun Fact</h4>
+<li>Apart from Tech Enthusiast i'm a National Cricket Player</li>
+<li>And I spend most of my spare time Writing and Painting my thinking.</li>
 <h1>Tech Stacks</h1>
 <ul>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="40"/>
