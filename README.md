@@ -9,8 +9,8 @@
 <li>🤝🏻 Open to Collaborate in any Project which Suits my Skillset.</li>
 <hr>
 <h4>Fun Fact</h4>
-<li>Apart from Tech Enthusiast i'm a National Cricket Player</li>
-<li>And I spend most of my spare time Writing and Painting my thinking.</li>
+<li>Apart from tech enthusiast I'm a National-Cricket-Player</li>
+<li>And spend most of my spare time Writing and Painting my thinking.</li>
 <h1>Tech Stacks</h1>
 <ul>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="40"/>
