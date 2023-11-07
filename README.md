@@ -8,7 +8,7 @@
 <li>👨‍💻 Front-end Web Developer, React.js Developer</li>
 <li>🤝🏻 Open to Collaborate in any Project which Suits my Skillset.</li>
 <hr>
-<h1>Skills</h1>
+<h1>Tech Stacks</h1>
 <ul>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="40"/>
@@ -27,14 +27,14 @@
 <h1>Social Handle</h1>
 <ul>
   <a href="https://github.com/NitishSoni-1726"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nitish-soni-ba0085206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/-nitish-soni-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/_2nitish6_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/_2nitish6_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:nitishsoni890@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </ul>
 <br>
 <br>
-<h1>Statistics</h1>
+<h1>Github Statistics</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="50%">
 </p>
