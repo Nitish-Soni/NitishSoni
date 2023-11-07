@@ -34,6 +34,9 @@
   <a href="https://www.snapchat.com/add/nitish2_6soni?share_id=eskzzulyfyg&locale=en-IN"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
   <a href="https://www.facebook.com/profile.php?id=100004077878896"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </ul>
+<br>
+<br>
+<h3>Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="50%">
 </p>
