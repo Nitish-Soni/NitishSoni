@@ -38,17 +38,17 @@
 <details>
   <summary><h1>Click Here to Display GitHub Stats</h1></summary>
 <br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="50%">
   
 </p>
 <br>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishSoni-1726&theme=dracula&hide_border=false" width="100%">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishSoni-1726&theme=dracula&hide_border=false" width="50%">
 </p>
 <br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="50%">
 </p>
 </details>
 <hr>
