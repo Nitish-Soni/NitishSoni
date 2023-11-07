@@ -36,7 +36,7 @@
 </ul>
 <br>
 <br>
-<h3>Stats</h3>
+<h1>Statistics</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="50%">
 </p>
