@@ -36,16 +36,3 @@
   <a href="mailto:nitishsoni890@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </ul>
 <br>
-<br>
-<h1>Github Statistics</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="50%">
-</p>
-<br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitishSoni-1726&theme=dracula&hide_border=false" width="50%">
-</p>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishSoni-1726&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="50%">
-</p>
