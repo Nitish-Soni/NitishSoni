@@ -4,8 +4,8 @@
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 <li>👋 Hey, Nitish Soni (EtHicS) this side.</li>
 <li>🎓 Did B.TECH in Software Engineering form Jain University, Bangalore.</li>
-<li>🏫 Currently working as Tech Support Engineer in Citrix</li>
-<li>👨‍💻 I am a Front-end developer with basic back-end understanding, creating seamless user experiences from design to server interactions.</li>
+<li>🏫 Currently working as Solution Analyst in HCL</li>
+<li>👨‍💻 I am a Full Stack Developer, creating seamless user experiences from design to server interactions.</li>
 <li>🤝🏻 Open to Collaborate in any Project which Suits my Skillset.</li>
 <hr>
 <h4>Fun Fact</h4>
